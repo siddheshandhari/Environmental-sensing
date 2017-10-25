@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+#header {width:100%}
+#leftWindow {width: 33%; background-color: lightgray;float:left;}
+#rightWindow {width: 67%; background-color: darkgray; float:left}
+.line {
+	  fill: none;
+	  stroke: steelblue;
+	  stroke-width: 2px;
+	}
+body h3 {text-align:center}
